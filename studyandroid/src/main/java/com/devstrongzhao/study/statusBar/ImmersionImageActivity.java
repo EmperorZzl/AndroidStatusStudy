@@ -3,8 +3,9 @@ package com.devstrongzhao.study.statusBar;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import devstrongzhao.studyandroiddev.R;
-import devstrongzhao.studyandroiddev.utils.StatusBarUtils;
+import com.devstrongzhao.study.R;
+import com.devstrongzhao.study.utils.StatusBarUtils;
+
 
 public class ImmersionImageActivity extends AppCompatActivity {
 

@@ -3,7 +3,8 @@ package com.devstrongzhao.study.statusBar;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import devstrongzhao.studyandroiddev.R;
+import com.devstrongzhao.study.R;
+
 
 public class FitsSystemWindowsActivity extends AppCompatActivity {
 
